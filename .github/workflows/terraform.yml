@@ -16,7 +16,7 @@ jobs:
   terraform:
     name: Terraform Plan & Apply
     runs-on: ubuntu-latest
-    environment: AWS_ACCESS_KEY_ID  
+
     # ──────────────────────────────────────────
     # GitHub Secrets → Environment Variables
     # ──────────────────────────────────────────
